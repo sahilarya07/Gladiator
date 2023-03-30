@@ -16,7 +16,6 @@ def main():
     global display
     global word
     global already_guessed
-    global length
     global play_game
     words_to_guess = ["january","border","image","film","promise","kids","lungs","doll","rhyme","damage"
                    ,"plants"]
